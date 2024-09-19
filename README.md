@@ -13,5 +13,5 @@ This is a website project written in Java using SpringBoot 3 and MySQL, with Boo
 ---
 # Important
  + View the dependencies in the pom.xml file.
- + View file 
+ + View file src/main/resources/application.properties
 
